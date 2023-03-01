@@ -5,6 +5,7 @@ import { Bell,BookmarkSimple,DotsThreeCircle, Envelope,FileText,Hash,House,User,
 import './global.css'
 
 import twitterLogo from './assets/logo-twitter.svg'
+import { Tweet } from './components/Tweet'
 
 ReactDOM.createRoot(document.getElementById('root') as HTMLElement).render(
   <React.StrictMode>
@@ -66,7 +67,10 @@ ReactDOM.createRoot(document.getElementById('root') as HTMLElement).render(
           </form>
 
           <div className="separtor" />
-
+          <Tweet />
+          <Tweet />
+          <Tweet />
+          <Tweet />
         </main>
       </div>
     </div>
