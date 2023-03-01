@@ -18,7 +18,6 @@ export function Timeline() {
 
     setTweets([newTweet, ...tweets ])
     setNewTweet('')
-
   }
  
   return (
