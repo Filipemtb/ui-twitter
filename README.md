@@ -36,7 +36,7 @@ Para fazer esse desafio eu utlizei:
 <br>
 
 -  Conceito de compilers and Bundlers
--  O que são componentes
+-  Componentes
 -  Propriedades / Children
 -  Interações no React (laços de repetição)
 -  Propriedade `Key`
